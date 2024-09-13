@@ -1,0 +1,13 @@
+{
+  "name": "envobject",
+  "version": "1.0.0",
+  "description": "env to object converter, or object to env converter",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["env", "object", "json"],
+  "author": "Muhammad Chevalier Joyosentiko",
+  "license": "MIT"
+}
