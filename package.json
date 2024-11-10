@@ -1,13 +1,17 @@
 {
   "name": "envobject",
-  "version": "1.0.0",
-  "description": "env to object converter, or object to env converter",
+  "version": "0.0.1",
+  "description": "Mengubah env ke object JS",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["env", "object", "json"],
-  "author": "Muhammad Chevalier Joyosentiko",
+  "author": "Chevalier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cj-1010-1414/envobject"
+  },
   "license": "MIT"
 }
