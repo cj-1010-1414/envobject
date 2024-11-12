@@ -4,10 +4,11 @@
   "description": "Mengubah env ke object JS",
   "type": "module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["env", "object", "json"],
+  "keywords": [
+    "env",
+    "object",
+    "json"
+  ],
   "author": "Chevalier",
   "repository": {
     "type": "git",

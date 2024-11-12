@@ -15,3 +15,7 @@ const stringNonEnv = `
 const hasil = await (new EnvDariFile('./tes/bahan/non-env.env')).keObyek() // (new EnvDariString(stringEnv)).keObyek()
 
 console.log(hasil)
+
+test('')
+
+// TODO next
